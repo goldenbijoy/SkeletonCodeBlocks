@@ -37,6 +37,8 @@ Lastly, put your skeleton/template file in the same folder as **skeletonCodeBloc
 
 For Better copy & paste new file name Enable  insert mode & quickEdit mode from consoles.
 
+Now Run tools with your given **keyboard shortcut** or from **Tools -> skeleton**
+
 
 
 
